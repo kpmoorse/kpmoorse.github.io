@@ -5,9 +5,8 @@
 layout: page
 ---
 ![Header Image](/assets/header-image.png)
+<br>
 
-
-<br/>
 # About Me
 
-My name is Kellan Moorse. I am a first-year PhD student in the Computation and Neural Systems option at Caltech, and I am interested in developing mathematical models to explain and predict the dynamics of neurobiological systems. In particular, I am applying control theoretic principles to better understand the highly robust and efficient behavior exhibited by the fruit fly *drosophila melanogaster*.
+My name is Kellan Moorse. I am a first-year PhD student in Michael Dickinson's lab at Caltech, and I am interested in using both mathematical modeling and experimental methods to examine neurobiological systems at the behavioral level. In particular, I am applying concepts from stochastic processes and control theory to better understand the highly robust and efficient odor plume navigation behavior exhibited by the fruit fly *Drosophila melanogaster*.
