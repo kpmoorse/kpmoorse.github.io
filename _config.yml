@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Kellan Moorse
 email: kmoorse@caltech.edu
-description: Caltech CNS
+description: Neuroscientist
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kpmoorse
