@@ -18,7 +18,7 @@ Experimental characterization of animal behavior is often limited by the presenc
 # Stochastic Hybrid Navigation Model [<img src="/assets/git01.png" alt="Github Image" width="30"/>](https://github.com/kpmoorse/cast_surge)
 
 <img style="padding: 0 15px; float: left" src="/assets/cast_surge02.PNG" alt="SHS Model Image" width="100"/>
-Behavior can be understood as a set of control laws describing an animal's interactions with its environment--conditional on its discrete behavioral state--and a set of rules for switching between those states. I am using formal methods from control theory and probability theory to generate hypotheses which guide the design of experiments related to odor plume navigation behavior in *Drosophila*.
+Behavior can be understood as a set of control laws describing an animal's interactions with its environment—conditional on its discrete internal state—and a set of rules for switching between those states. I am using formal methods from the hybrid systems theory that underlies this architecture to generate hypotheses which guide the design of experiments related to odor plume navigation in *Drosophila*.
 
 # Similarity-Weighted Image Registration   [<img src="/assets/git01.png" alt="Github Image" width="30"/>](https://github.com/kpmoorse/sim_reg)
 

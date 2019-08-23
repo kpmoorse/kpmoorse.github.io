@@ -18,7 +18,8 @@ email: kmoorse@caltech.edu
 description: Neuroscientist
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  kpmoorse
+github_username: kpmoorse
+twitter_username: kellanmoorse
 
 # Build settings
 markdown: kramdown
