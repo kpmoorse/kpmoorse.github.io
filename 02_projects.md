@@ -19,11 +19,13 @@ Experimental characterization of animal behavior is often limited by the presenc
 
 <img style="padding: 0 15px; float: left" src="/assets/cast_surge02.PNG" alt="SHS Model Image" width="100"/>
 Behavior can be understood as a set of control laws describing an animal's interactions with its environment—conditional on its discrete internal state—and a set of rules for switching between those states. I am using formal methods from the hybrid systems theory that underlies this architecture to generate hypotheses which guide the design of experiments related to odor plume navigation in *Drosophila*.
+<br/><br/>
 
-# Similarity-Weighted Image Registration   [<img src="/assets/git01.png" alt="Github Image" width="30"/>](https://github.com/kpmoorse/sim_reg)
+## Completed Projects
 
-<img style="padding: 0 15px; float: left" src="/assets/zernike01.PNG" alt="Zernike Image" width="100"/>
-When collecting neural data, researchers often need a rigorous method for assigning corresponences between neurons across imaging modalities. By combining point-cloud and pixel-based registration techniques, I developed a new method which is robust to many common artifacts which challenge even human classification.
+# Similarity-Weighted Image Registration [<img src="/assets/git01.png" alt="Github Image" width="30"/>](https://github.com/kpmoorse/sim_reg)
+
+# Fast Algorithm for Limited-Angle Tomography [<img src="/assets/article01-gray.png" alt="Article Image" width="20"/>](https://doi.org/10.1038/s41598-018-29379-6)
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
