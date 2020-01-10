@@ -11,4 +11,4 @@ layout: page
 
 <img style="padding: 0 15px; float: left" src="/assets/header-face02b.png" alt="Headshot" width="200"/>
 # About Me
-My name is Kellan Moorse. I am a PhD student in Michael Dickinson's lab at Caltech, and I am interested in using both mathematical modeling and experimental methods to examine neurobiological systems at the behavioral level. In particular, I am applying concepts from stochastic processes and control theory to better understand the highly robust and efficient odor plume navigation behavior exhibited by the fruit fly *Drosophila melanogaster*.
+My name is Kellan Moorse. I am a PhD student in Michael Dickinson's lab at Caltech, and I am interested in combining mathematical modeling and experimental methods to examine neurobiological systems at the behavioral level. In particular, I am applying methods from stochastic processes and control theory to better understand the highly robust and efficient odor plume navigation behavior exhibited by the fruit fly *Drosophila melanogaster*.
