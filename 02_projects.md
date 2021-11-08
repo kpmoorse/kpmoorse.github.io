@@ -10,15 +10,18 @@ table, th, td{
 }
 </style>
 
-# Flight-Tracking Field Array [<img src="/assets/git01.png" alt="Github Icon" width="30"/>](https://github.com/kpmoorse/cam_array)
+# Bayesian Safe Set Inference <!--[<img src="/assets/git01.png" alt="Github Icon" width="30"/>](https://github.com/kpmoorse/cast_surge)-->
 
-<img style="padding: 0 15px; float: left" src="/assets/cam_array01.png" alt="Camera Unit Image" width="100"/>
-Experimental characterization of animal behavior is often limited by the presence of artificial boundaries which act as confounding inputs to the animal's decision algorithm. By designing and building a portable camera array, I hope to enable the multidimensional tracking of naturalistic odor plume navigation in *Drosophila*.
+<img style="padding: 0 15px; float: left" src="/assets/gpa_safeset.PNG" alt="2D Gaussian process approximation with safe set" width="100" height="100"/>
+Given a parameterized system for which only a subset of the parameter space is "safe" for testing, we compute the element of the safe set, S, which maximizes the expected value of a probabilistic worst-case goodness metric at a point, p*, outside the safe set.  
 
-# Stochastic Hybrid Navigation Model [<img src="/assets/git01.png" alt="Github Icon" width="30"/>](https://github.com/kpmoorse/cast_surge)
+<br><br/>
 
-<img style="padding: 0 15px; float: left" src="/assets/cast_surge02.PNG" alt="SHS Model Image" width="100"/>
-Behavior can be understood as a set of control laws describing an animal's interactions with its environment—conditional on its discrete internal state—and a set of rules for switching between those states. I am using formal methods from the hybrid systems theory that underlies this architecture to generate hypotheses which guide the design of experiments related to odor plume navigation in *Drosophila*.
+# Integrated Model of *Drosophila* flight [<img src="/assets/git01.png" alt="Github Icon" width="30"/>](https://github.com/kpmoorse/guf2)
+
+<img style="padding: 0 15px; float: left" src="/assets/guf.png" alt="Camera Unit Image" width="100" height="100"/>
+By aggregating low-order fluid models, an empirically derived basis set of flight control maneuvers, and high-speed video validation data, we generate a modular simulation of controlled flight dynamics for the fruit fly *Drosophila melanogaster*.
+
 <br/><br/>
 
 ## Completed Projects
