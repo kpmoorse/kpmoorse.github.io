@@ -12,7 +12,7 @@ table, th, td{
 
 # Bayesian Safe Set Inference <!--[<img src="/assets/git01.png" alt="Github Icon" width="30"/>](https://github.com/kpmoorse/cast_surge)-->
 
-<img style="padding: 0 15px; float: left" src="/assets/gpa_safeset.PNG" alt="2D Gaussian process approximation with safe set" width="100" height="100"/>
+<img style="padding: 0 15px; float: left" src="/assets/gpa_safeset.png" alt="2D Gaussian process approximation with safe set" width="100" height="100"/>
 Given a parameterized system for which only a subset of the parameter space is "safe" for testing, we compute the element of the safe set, S, which maximizes the expected value of a probabilistic worst-case goodness metric at a point, p*, outside the safe set.  
 
 <br><br/>
